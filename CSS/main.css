@@ -1,6 +1,9 @@
 
 html {
   box-sizing: border-box;
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
@@ -10,4 +13,6 @@ html {
 body {
   background-color: red;
   text-align: center;
+  font-family: sans-serif;
+  font-size: 22px;
 }
